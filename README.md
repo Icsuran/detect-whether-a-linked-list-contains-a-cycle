@@ -10,3 +10,7 @@
         return false;
     }
 ```
+
+## Tests
+
+![image](https://github.com/Icsuran/detect-whether-a-linked-list-contains-a-cycle/blob/main/Test_case.png)
