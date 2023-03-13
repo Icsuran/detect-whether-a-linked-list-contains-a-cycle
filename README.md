@@ -1,4 +1,11 @@
-# Solution: detect-whether-a-linked-list-contains-a-cycle
+# detect-whether-a-linked-list-contains-a-cycle
+
+## Problem
+
+https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/
+
+
+## Solution
 
 ```java
  static boolean hasCycle(SinglyLinkedListNode head) {
